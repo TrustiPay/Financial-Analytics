@@ -16,11 +16,8 @@ COPY sample_data/ ./sample_data/
 
 ENV DB_URL="sqlite:///./trustipay.db" \
     TRUSTIPAY_API_BASE_URL="http://127.0.0.1:8000" \
-    TRUSTIPAY_INGEST_KEY="trustipay_ingest_key" \
+    TRUSTIPAY_INGEST_KEY="trustipay_ingest_key"
 
 EXPOSE 8000 8501
 
-COPY docker-entrypoint.sh /docker-entrypoint.sh
-RUN chmod +x /docker-entrypoint.sh
-
-ENTRYPOINT ["/docker-entrypoint.sh"]
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port 8000 & streamlit run dashboard/dashboard.py --server.address=0.0.0.0 --server.port=8501 --server.headless=true --browser.gatherUsageStats=false && wait"]
