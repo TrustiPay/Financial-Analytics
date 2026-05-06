@@ -1,0 +1,1 @@
+"""TrustiPay Analytics application package."""

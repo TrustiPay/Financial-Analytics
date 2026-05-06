@@ -1,0 +1,3725 @@
+{
+  "source": "wallet",
+  "transactions": [
+    {
+      "external_tx_id": "AMAL-2026-02-SALARY",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "145000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-02-RENT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "34000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-02-UTIL",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "8385.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-02-FOOD",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "23887.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-02-TRANSPORT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "7020.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-02-LIFESTYLE",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "10725.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-SALARY",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "146450.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-RENT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "34000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-UTIL",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "8600.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-FOOD",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "24500.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-TRANSPORT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-03-LIFESTYLE",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "11000.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-SALARY",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "147900.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-RENT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "34000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-UTIL",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "8815.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-FOOD",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "25112.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-TRANSPORT",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "7380.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "AMAL-2026-04-LIFESTYLE",
+      "user_ref": "amal-perera",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "11275.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-SALARY",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "132000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-RENT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "31000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-UTIL",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7702.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-FOOD",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "21255.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-TRANSPORT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6630.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-02-LIFESTYLE",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "9555.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-SALARY",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "133320.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-RENT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "31000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-UTIL",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "7900.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-FOOD",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "21800.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-TRANSPORT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "6800.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-03-LIFESTYLE",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "9800.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-SALARY",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "134640.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-RENT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "31000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-UTIL",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "8097.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-FOOD",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "22345.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-TRANSPORT",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "6970.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MAYA-2026-04-LIFESTYLE",
+      "user_ref": "maya-fernando",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "10045.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-SALARY",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "118000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-RENT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "28000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-UTIL",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7215.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-FOOD",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "19987.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-TRANSPORT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6240.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-02-LIFESTYLE",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "8482.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-SALARY",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "119180.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-RENT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "28000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-UTIL",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "7400.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-FOOD",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "20500.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-TRANSPORT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "6400.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-03-LIFESTYLE",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "8700.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-SALARY",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "120360.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-RENT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "28000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-UTIL",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "7585.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-FOOD",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "21012.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-TRANSPORT",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "6560.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KASUN-2026-04-LIFESTYLE",
+      "user_ref": "kasun-silva",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "8917.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-SALARY",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "176000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-RENT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "46000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-UTIL",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "10920.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-FOOD",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "35587.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-TRANSPORT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "8970.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-02-LIFESTYLE",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "15112.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-SALARY",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "177760.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-RENT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "46000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-UTIL",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "11200.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-FOOD",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "36500.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-TRANSPORT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "9200.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-03-LIFESTYLE",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "15500.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-SALARY",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "179520.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-RENT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "46000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-UTIL",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "11480.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-FOOD",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "37412.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-TRANSPORT",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "9430.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "NETHMI-2026-04-LIFESTYLE",
+      "user_ref": "nethmi-jayawardena",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "15887.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-SALARY",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "98000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-RENT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "21000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-UTIL",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "5947.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-FOOD",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "17160.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-TRANSPORT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "5460.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-02-LIFESTYLE",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "7020.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-SALARY",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "98980.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-RENT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "21000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-UTIL",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "6100.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-FOOD",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "17600.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-TRANSPORT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "5600.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-03-LIFESTYLE",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-SALARY",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "99960.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-RENT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "21000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-UTIL",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "6252.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-FOOD",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "18040.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-TRANSPORT",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "5740.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DILSHAN-2026-04-LIFESTYLE",
+      "user_ref": "dilshan-ratnayake",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "7380.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-SALARY",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "210000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-RENT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "52000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-UTIL",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "12285.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-FOOD",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "39975.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-TRANSPORT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "10530.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-02-LIFESTYLE",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "23400.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-SALARY",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "212100.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-RENT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "52000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-UTIL",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "12600.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-FOOD",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "41000.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-TRANSPORT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "10800.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-03-LIFESTYLE",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "24000.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-SALARY",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "214200.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-RENT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "52000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-UTIL",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "12915.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-FOOD",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "42025.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-TRANSPORT",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "11070.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SACHINI-2026-04-LIFESTYLE",
+      "user_ref": "sachini-wijesinghe",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "24600.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-SALARY",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "86000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-RENT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "17000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-UTIL",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "4680.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-FOOD",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "13552.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-TRANSPORT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "4387.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-02-LIFESTYLE",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "6045.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-SALARY",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "86860.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-RENT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "17000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-UTIL",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "4800.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-FOOD",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "13900.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-TRANSPORT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "4500.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-03-LIFESTYLE",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "6200.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-SALARY",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "87720.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-RENT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "17000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-UTIL",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "4920.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-FOOD",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "14247.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-TRANSPORT",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "4612.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "RAVINDU-2026-04-LIFESTYLE",
+      "user_ref": "ravindu-gunasekara",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "6355.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-SALARY",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "154000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-RENT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "36000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-UTIL",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "8580.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-FOOD",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "25545.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-TRANSPORT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "7117.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-02-LIFESTYLE",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "12187.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-SALARY",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "155540.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-RENT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "36000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-UTIL",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "8800.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-FOOD",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "26200.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-TRANSPORT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "7300.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-03-LIFESTYLE",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "12500.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-SALARY",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "157080.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-RENT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "36000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-UTIL",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "9020.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-FOOD",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "26855.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-TRANSPORT",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "7482.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "THARUSHI-2026-04-LIFESTYLE",
+      "user_ref": "tharushi-karunaratne",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "12812.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-SALARY",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "124000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-RENT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "30000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-UTIL",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7410.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-FOOD",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "21547.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-TRANSPORT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "13162.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-02-LIFESTYLE",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "9945.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-SALARY",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "125240.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-RENT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "30000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-UTIL",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "7600.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-FOOD",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "22100.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-TRANSPORT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "13500.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-03-LIFESTYLE",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "10200.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-SALARY",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "126480.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-RENT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "30000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-UTIL",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "7790.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-FOOD",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "22652.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-TRANSPORT",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "13837.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ISURU-2026-04-LIFESTYLE",
+      "user_ref": "isuru-bandara",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "10455.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-SALARY",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "188000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-RENT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "48000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-UTIL",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "11310.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-FOOD",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "38512.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-TRANSPORT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "9457.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-02-LIFESTYLE",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "18037.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-SALARY",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "189880.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-RENT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "48000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-UTIL",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "11600.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-FOOD",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "39500.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-TRANSPORT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "9700.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-03-LIFESTYLE",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "18500.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-SALARY",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "191760.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-RENT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "48000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-UTIL",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "11890.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-FOOD",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "40487.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-TRANSPORT",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "9942.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "ANUSHKA-2026-04-LIFESTYLE",
+      "user_ref": "anushka-mendis",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "18962.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-SALARY",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "112000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-RENT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "26000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-UTIL",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "6727.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-FOOD",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "19305.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-TRANSPORT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "5947.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-02-LIFESTYLE",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "9067.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-SALARY",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "113120.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-RENT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "26000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-UTIL",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "6900.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-FOOD",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "19800.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-TRANSPORT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "6100.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-03-LIFESTYLE",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "9300.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-SALARY",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "114240.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-RENT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "26000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-UTIL",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "7072.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-FOOD",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "20295.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-TRANSPORT",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "6252.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "SHENALI-2026-04-LIFESTYLE",
+      "user_ref": "shenali-dias",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "9532.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-SALARY",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "240000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-RENT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "64000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-UTIL",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "13845.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-FOOD",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "44362.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-TRANSPORT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "11700.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-02-LIFESTYLE",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "30225.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-SALARY",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "242400.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-RENT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "64000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-UTIL",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "14200.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-FOOD",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "45500.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-TRANSPORT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "12000.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-03-LIFESTYLE",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "31000.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-SALARY",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "244800.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-RENT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "64000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-UTIL",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "14555.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-FOOD",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "46637.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-TRANSPORT",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "12300.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "LAHIRU-2026-04-LIFESTYLE",
+      "user_ref": "lahiru-abeysekara",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "31775.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-SALARY",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "69000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-RENT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "13000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-UTIL",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "3997.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-FOOD",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "10530.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-TRANSPORT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "3802.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-02-LIFESTYLE",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "5460.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-SALARY",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "69690.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-RENT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "13000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-UTIL",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "4100.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-FOOD",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "10800.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-TRANSPORT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "3900.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-03-LIFESTYLE",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "5600.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-SALARY",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "70380.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-RENT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "13000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-UTIL",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "4202.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-FOOD",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "11070.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-TRANSPORT",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "3997.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "POOJA-2026-04-LIFESTYLE",
+      "user_ref": "pooja-samarasinghe",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "5740.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-SALARY",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "137000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-RENT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "32000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-UTIL",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7995.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-FOOD",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "22620.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-TRANSPORT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6922.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-02-LIFESTYLE",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "11310.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-SALARY",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "138370.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-RENT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "32000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-UTIL",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "8200.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-FOOD",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "23200.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-TRANSPORT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "7100.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-03-LIFESTYLE",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "11600.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-SALARY",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "139740.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-RENT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "32000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-UTIL",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "8405.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-FOOD",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "23780.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-TRANSPORT",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "7277.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "DINUKA-2026-04-LIFESTYLE",
+      "user_ref": "dinuka-edirisinghe",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "11890.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-SALARY",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "201000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-RENT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "54000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-UTIL",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "12480.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-FOOD",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "42705.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-TRANSPORT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "10822.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-02-LIFESTYLE",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "22230.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-SALARY",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "203010.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-RENT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "54000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-UTIL",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "12800.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-FOOD",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "43800.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-TRANSPORT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "11100.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-03-LIFESTYLE",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "22800.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-SALARY",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "205020.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-RENT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "54000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-UTIL",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "13120.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-FOOD",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "44895.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-TRANSPORT",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "11377.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "HIRUNI-2026-04-LIFESTYLE",
+      "user_ref": "hiruni-nanayakkara",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "23370.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-SALARY",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "127000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-RENT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "29000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-UTIL",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7507.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-FOOD",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "20865.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-TRANSPORT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6435.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-02-LIFESTYLE",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "9262.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-SALARY",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "128270.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-RENT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "29000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-UTIL",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "7700.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-FOOD",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "21400.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-TRANSPORT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "6600.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-03-LIFESTYLE",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "9500.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-SALARY",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "129540.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-RENT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "29000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-UTIL",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "7892.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-FOOD",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "21935.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-TRANSPORT",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "6765.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "JANITH-2026-04-LIFESTYLE",
+      "user_ref": "janith-wickramasinghe",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "9737.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-SALARY",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "150000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-RENT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "35000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-UTIL",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "8482.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-FOOD",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "24180.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-TRANSPORT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6825.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-02-LIFESTYLE",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "10530.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-SALARY",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "151500.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-RENT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "35000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-UTIL",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "8700.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-FOOD",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "24800.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-TRANSPORT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "7000.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-03-LIFESTYLE",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "10800.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-SALARY",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "153000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-RENT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "35000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-UTIL",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "8917.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-FOOD",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "25420.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-TRANSPORT",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "7175.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-LIFESTYLE",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "11070.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-HEALTH",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-18T12:15:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Healthcare",
+      "description": "Pharmacy and consultation",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-DINING",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-21T20:10:00Z",
+      "amount": "9800.00",
+      "direction": "debit",
+      "category": "Dining",
+      "description": "Dinner with friends",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "KAVINDI-2026-04-ANOMALY",
+      "user_ref": "kavindi-weerasinghe",
+      "occurred_at": "2026-04-24T23:45:00Z",
+      "amount": "352500.00",
+      "direction": "debit",
+      "category": "Shopping",
+      "description": "Unexpected high-value luxury purchase",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-SALARY",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "169000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-RENT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "39000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-UTIL",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "9165.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-FOOD",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "27397.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-TRANSPORT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "8190.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-02-LIFESTYLE",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "13357.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-SALARY",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "170690.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-RENT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "39000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-UTIL",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "9400.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-FOOD",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "28100.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-TRANSPORT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "8400.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-03-LIFESTYLE",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "13700.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-SALARY",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "172380.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-RENT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "39000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-UTIL",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "9635.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-FOOD",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "28802.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-TRANSPORT",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "8610.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-LIFESTYLE",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "14042.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-HEALTH",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-18T12:15:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Healthcare",
+      "description": "Pharmacy and consultation",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-DINING",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-21T20:10:00Z",
+      "amount": "9800.00",
+      "direction": "debit",
+      "category": "Dining",
+      "description": "Dinner with friends",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "MALITH-2026-04-ANOMALY",
+      "user_ref": "malith-senadheera",
+      "occurred_at": "2026-04-24T23:45:00Z",
+      "amount": "397150.00",
+      "direction": "debit",
+      "category": "Shopping",
+      "description": "Unexpected high-value luxury purchase",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-SALARY",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "122000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-RENT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "27000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-UTIL",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "7020.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-FOOD",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "20182.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-TRANSPORT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "6240.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-02-LIFESTYLE",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "8677.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-SALARY",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "123220.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-RENT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "27000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-UTIL",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-FOOD",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "20700.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-TRANSPORT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "6400.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-03-LIFESTYLE",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "8900.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-SALARY",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "124440.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-RENT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "27000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-UTIL",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "7380.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-FOOD",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "21217.50",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-TRANSPORT",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "6560.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-LIFESTYLE",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "9122.50",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-HEALTH",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-18T12:15:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Healthcare",
+      "description": "Pharmacy and consultation",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-DINING",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-21T20:10:00Z",
+      "amount": "9800.00",
+      "direction": "debit",
+      "category": "Dining",
+      "description": "Dinner with friends",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "OSHADA-2026-04-ANOMALY",
+      "user_ref": "oshada-kulathunga",
+      "occurred_at": "2026-04-24T23:45:00Z",
+      "amount": "286700.00",
+      "direction": "debit",
+      "category": "Shopping",
+      "description": "Unexpected high-value luxury purchase",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-SALARY",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-01T08:00:00Z",
+      "amount": "193000.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-RENT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-03T09:00:00Z",
+      "amount": "50000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-UTIL",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-05T10:00:00Z",
+      "amount": "11602.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-FOOD",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-10T13:00:00Z",
+      "amount": "39195.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-TRANSPORT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-16T08:45:00Z",
+      "amount": "9652.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-02-LIFESTYLE",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-02-23T19:30:00Z",
+      "amount": "18915.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-SALARY",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-01T08:00:00Z",
+      "amount": "194930.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-RENT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-03T09:00:00Z",
+      "amount": "50000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-UTIL",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-05T10:00:00Z",
+      "amount": "11900.00",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-FOOD",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-10T13:00:00Z",
+      "amount": "40200.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-TRANSPORT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-16T08:45:00Z",
+      "amount": "9900.00",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-03-LIFESTYLE",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-03-23T19:30:00Z",
+      "amount": "19400.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-SALARY",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-01T08:00:00Z",
+      "amount": "196860.00",
+      "direction": "credit",
+      "category": "Salary",
+      "description": "Monthly salary",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-RENT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-03T09:00:00Z",
+      "amount": "50000.00",
+      "direction": "debit",
+      "category": "Housing",
+      "description": "Monthly rent",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-UTIL",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-05T10:00:00Z",
+      "amount": "12197.50",
+      "direction": "debit",
+      "category": "Utilities",
+      "description": "Electricity and water",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-FOOD",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-10T13:00:00Z",
+      "amount": "41205.00",
+      "direction": "debit",
+      "category": "Food",
+      "description": "Groceries and household essentials",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-TRANSPORT",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-16T08:45:00Z",
+      "amount": "10147.50",
+      "direction": "debit",
+      "category": "Transport",
+      "description": "Commute and fuel",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-LIFESTYLE",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-23T19:30:00Z",
+      "amount": "19885.00",
+      "direction": "debit",
+      "category": "Lifestyle",
+      "description": "Discretionary monthly spending",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-HEALTH",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-18T12:15:00Z",
+      "amount": "7200.00",
+      "direction": "debit",
+      "category": "Healthcare",
+      "description": "Pharmacy and consultation",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-DINING",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-21T20:10:00Z",
+      "amount": "9800.00",
+      "direction": "debit",
+      "category": "Dining",
+      "description": "Dinner with friends",
+      "currency": "LKR"
+    },
+    {
+      "external_tx_id": "YASHVI-2026-04-ANOMALY",
+      "user_ref": "yashvi-gamage",
+      "occurred_at": "2026-04-24T23:45:00Z",
+      "amount": "453550.00",
+      "direction": "debit",
+      "category": "Shopping",
+      "description": "Unexpected high-value luxury purchase",
+      "currency": "LKR"
+    }
+  ]
+}
